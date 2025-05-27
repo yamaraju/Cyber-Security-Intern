@@ -1,0 +1,129 @@
+🕵️‍♂️ The Phishing Net Challenge
+
+🌟 Catch the Phishing Emails and Win!
+
+Welcome to the Phishing Net Challenge, hosted by Srikanti Krishna Sai Pavan, a Cyber Security Intern at Elevate Labs! Test your skills as a Phishing Detective by analyzing suspicious emails and identifying their sneaky tricks. Can you net the most phishing indicators and claim the title of Master Phishing Netter?
+
+
+
+📜 Contest Rules
+
+
+
+
+
+Duration: May 27, 2025 – June 3, 2025
+
+
+
+Objective: Analyze 3 email samples and identify at least 5 phishing indicators per email.
+
+
+
+Submission: Post your analysis as a comment in the GitHub issue titled "Phishing Net Challenge Submissions."
+
+
+
+Scoring:
+
+
+
+
+
+2 points per correct phishing indicator (max 10 points per email).
+
+
+
+Bonus 5 points for creativity in your submission.
+
+
+
+Total possible points: 35.
+
+
+
+Winner: The participant with the highest score wins. Ties are broken by creativity.
+
+
+
+📧 Email Samples
+
+Email 1: Package Delivery Scam
+
+Subject: Your Package Delivery Failed - Act Now!!
+
+Dear Customer,
+
+We’re sorry, but your package delivery has failed due to an incomplete address. You must update your details within 12 hours, or your package will be destroyed.
+
+Click here to update: http://package-update.com/verify
+
+Regards,
+Delivery Team
+support@delivryteam.net
+
+Email 2: Account Verification Trick
+
+Subject: Verify Your Account Now!!
+
+Hello User,
+
+Your account will be locked if you don’t verify your identity immediatly. Click the link below to avoid suspension.
+
+Verify here: http://account-secure.net/login
+
+Thanks,
+Support Team
+support@accoutsecure.com
+
+Email 3: Prize Winner Hoax
+
+Subject: Congratulations! You’ve Won a Prize!
+
+Dear Winner,
+
+You’ve been selected as the winner of a $5000 prize! Claim it now by clicking the link below. Hurry, offer expires in 24 hrs.
+
+Claim your prize: http://win-prize-now.com/claim
+
+Best,
+Prize Team
+prizes@winprizes.org
+
+
+
+🏆 Rewards
+
+
+
+
+
+Title: Master Phishing Netter
+
+
+
+Digital Badge: A shiny badge to display on your GitHub profile.
+
+
+
+Shoutout: A feature in my repository’s README with a link to your profile.
+
+
+
+📝 How to Submit
+
+
+
+
+
+Analyze each email and list at least 5 phishing indicators per email.
+
+
+
+Add a creative touch (e.g., write your findings as a detective story).
+
+
+
+Post your analysis in the GitHub issue linked above.
+
+Let’s catch those phishing emails together! 🔒
